@@ -1,2 +1,2 @@
-# hello-word-app-electron
- hello word basico utilizando electron
+# hello-world-app-electron
+ hello world basico utilizando electron
